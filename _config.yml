@@ -1,0 +1,19 @@
+# Name
+name: Adrian DC
+
+# Description
+description: Developments
+
+# Markdown
+kramdown:
+  parse_block_html: true
+
+# Gems
+gems:
+  - jekyll-sitemap
+
+# Exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
