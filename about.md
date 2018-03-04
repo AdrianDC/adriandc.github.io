@@ -26,4 +26,5 @@ Awarded [Sony Hero Developer in 2016](https://developer.sonymobile.com/2016/09/1
 
 I also participate and help on projects around the Android community and Sony Xperia devices.
 
-*Find my recent activities on [XDA-Developers](http://forum.xda-developers.com/member.php?u=2233641){: target="_blank" }.*
+*Find my recent activities on [XDA-Developers](http://forum.xda-developers.com/member.php?u=2233641){: target="_blank" }.*  
+*Details about my desktop computer : [computer](/computer).*
