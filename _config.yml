@@ -17,3 +17,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
+# Pages
+menu:
+  - index.md
