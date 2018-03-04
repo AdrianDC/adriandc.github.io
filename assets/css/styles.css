@@ -1,0 +1,336 @@
+/* *************************** */
+/* |  Adrian DC | 2013-2018  | */
+/* *************************** */
+
+/* === Type styles === */
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  background-color: #FFFFFF;
+  min-height: 100%;
+}
+
+a,
+a:visited {
+  color: #606060;
+  font-weight: bold;
+}
+
+a:focus,
+a:hover {
+  color: #909090;
+  text-decoration:none;
+}
+
+h1,
+h2 {
+  color: #505050;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* === Wrapper styles === */
+.page-wrapper {
+  margin-bottom: 38px;
+}
+
+/* === Container styles === */
+.navbar-container {
+  background: transparent;
+  border: none;
+  -moz-box-shadow: #333333 0px 7px 14px -4px;
+  -webkit-box-shadow: #333333 0px 7px 14px -4px;
+  box-shadow: #333333 0px 7px 14px -4px;
+  color: black !important;
+  margin-bottom: 16px;
+  padding: 0px;
+  width: 100%;
+}
+
+.header-container {
+  align-items: center;
+  background: #424242;
+  display: flex;
+  height: 60px;
+}
+
+.menu-container {
+  background-color: #F5F5F5;
+  -moz-box-shadow: inset 0 16px 18px -18px #000000;
+  -webkit-box-shadow: inset 0 16px 18px -18px #000000;
+  box-shadow: inset 0 16px 18px -18px #000000;
+  padding: 0px 20px;
+}
+
+.page-container {
+  -moz-box-shadow: #000000 0px 0px 20px -3px;
+  -webkit-box-shadow: #000000 0px 0px 20px -3px;
+  box-shadow: #000000 0px 0px 20px -3px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px 5px;
+  text-align: center;
+  width: 70%;
+}
+
+.footer-container {
+  background-color: #111111;
+  bottom: 0px;
+  height: 38px;
+  position: absolute;
+  width: 100%;
+}
+
+.footer-container .container {
+  width: 100% !important;
+}
+
+.footer-container .row > div {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+/* === Header styles === */
+.navbar-brand {
+  height: auto;
+  line-height: 45px;
+  max-width: 70%;
+  padding: 0px 0px !important;
+}
+
+.navbar-brand-img {
+  height: 100%;
+  max-width: 100%;
+}
+
+.navbar-brand-img > img {
+  height: auto;
+  max-width: 100%;
+}
+
+.navbar-toggle {
+  border-color: rgba(255, 255, 255, 0.3);
+  margin-right: 0px;
+}
+
+.navbar-toggle .icon-bar {
+  background-color: white !important;
+  border: none !important;
+}
+
+.navbar-nav > li:hover {
+  background-color: #444444;
+}
+
+.navbar-nav > li:hover a {
+  background: none;
+  color: #F5F5F5 !important;
+}
+
+.navbar-nav > li > a {
+  color: #111111;
+  font-weight: bold;
+  padding: 4px 10px !important;
+  text-shadow: #CCCCCC 0px 0px 10px;
+  text-transform: uppercase;
+}
+
+.navbar-nav > li > a:focus {
+  background-color: transparent;
+}
+
+.nav > li {
+  transition: all 0.2s ease-out;
+}
+/* === Content styles === */
+.page-content {
+  padding: 30px;
+  text-align: center;
+}
+
+.page-content-field {
+  display: inline-block;
+  text-align: left;
+}
+
+.page-content-field .fas,
+.page-content-field .fab {
+  font-size: 30px;
+}
+
+.page-content-details *,
+.page-content-field * {
+  vertical-align: middle;
+}
+
+.page-content-details {
+  display: inline-block;
+  padding: 2px;
+  text-align: center;
+}
+
+.page-content-details .fas,
+.page-content-details .fab {
+  font-size: 24px;
+}
+
+.page-content-details > summary {
+  padding: 2px;
+  margin-bottom: 4px;
+}
+
+.page-content-details > summary::-webkit-details-marker {
+  display:none;
+}
+
+.page-content-details > summary > p {
+  margin: 0px;
+}
+
+/* === Effects styles === */
+.page-links-effects a > span {
+  position:relative;
+}
+
+.page-links-effects a > span:hover {
+  -webkit-backface-visibility:hidden;
+  backface-visibility:hidden;
+}
+
+.page-links-effects a > span:after {
+  -webkit-backface-visibility:hidden;
+  backface-visibility:hidden;
+  background:currentColor;
+  bottom:-0.10em;
+  content:"";
+  height:2px;
+  left:0;
+  position:absolute;
+  transition:0.5s all ease;
+  width:0;
+}
+
+.page-links-effects a > span:hover:after {
+  width:100%;
+}
+
+/* === Card styles === */
+.card {
+  background-color:#FFFFFF;
+  -moz-box-shadow:#000000 0px 0px 10px -4px;
+  -webkit-box-shadow:#000000 0px 0px 10px -4px;
+  box-shadow:#000000 0px 0px 10px -4px;
+  display:inline-block;
+  font-weight: bold;
+  margin:10px 10px;
+  padding:5px 20px 5px;
+  text-align: left;
+}
+
+.card > p > a {
+  color: #555555;
+  font-size: 13px;
+}
+
+.card > ul {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+.card > ul > li > a {
+  font-size: 13px;
+  line-height: 190%;
+}
+
+.card-divider {
+  border-bottom:1px solid rgba(0, 0, 0, 0.12);
+  height:1px;
+  margin:6px 0px 6px;
+}
+
+/* === Footer styles === */
+.footer-credits {
+  color: #FFFFFF;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.footer-credits > span {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.footer-top {
+  margin-top: 4px;
+  text-align: center;
+}
+
+.footer-arrow {
+  color: #FFFFFF;
+  font-size: 24px;
+  text-align: center;
+}
+
+.footer-arrow:visited {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.footer-icons {
+  text-align: right;
+}
+
+.footer-icons > a {
+  color: #FFFFFF;
+  margin: 6px;
+}
+
+.footer-icons .fas,
+.footer-icons .fab {
+  font-size: 24px;
+}
+
+/* === Media styles === */
+@media print, screen and (max-width: 960px) {
+  .page-wrapper {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .page-container {
+    width: 98%;
+  }
+
+  .page-content {
+    padding: 10px;
+  }
+}
+
+@media print, screen and (max-width: 768px) {
+  .card > ul {
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  .page-wrapper {
+    padding-left: 3px;
+    padding-right: 3px;
+  }
+
+  .page-content {
+    padding: 4px;
+  }
+
+  .card {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}

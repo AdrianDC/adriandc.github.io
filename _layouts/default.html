@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+{% include meta.html %}
+{% include stylesheets.html %}
+  </head>
+
+  <body id="top">
+    <div class="page-wrapper">
+{% include navbar.html %}
+      <div class="page-container" role="main">
+        <div class="page-content page-links-effects">
+{{ content }}
+        </div>
+      </div>
+    </div>
+
+{% include footer.html %}
+{% include scripts.html %}
+  </body>
+</html>

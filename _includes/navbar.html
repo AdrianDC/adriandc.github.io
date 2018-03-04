@@ -1,0 +1,31 @@
+      <nav class="navbar navbar-container">
+
+        <div class="header-container">
+          <div class="container">
+            <button type="button" class="navbar-toggle collapsed navbarButton" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{ site.baseurl }}/">
+              <div class="navbar-brand-img">
+                <img src="{{ site.baseurl }}/images/logo.png" alt="Logo">
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="menu-container">
+          <div class="container">
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav navbar-left">{% for entry in site.menu %}{% for node in site.pages %}{% if entry == node.name %}
+                <li class="nav-item {% if page.url == node.url %} active{% endif %}">
+                  <a href="{{node.url}}">{{node.title}}</a>
+                </li>
+  {% endif %}{% endfor %}{% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </nav>
