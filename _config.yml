@@ -21,3 +21,4 @@ exclude:
 # Pages
 menu:
   - index.md
+  - about.md
