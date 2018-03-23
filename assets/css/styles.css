@@ -142,6 +142,15 @@ h2 {
   background-color: transparent;
 }
 
+.navbar-nav-active {
+  background: #DDDDDD;
+  background: linear-gradient(0deg, rgba(221,221,221,1), rgba(221,221,221,0));
+}
+
+.navbar-nav-active:hover {
+  background: none;
+}
+
 .nav > li {
   transition: all 0.2s ease-out;
 }
