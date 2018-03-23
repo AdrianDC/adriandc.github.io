@@ -7,6 +7,8 @@ title: Developments
 
 # Android Developments
 
+<div class="cards">
+
 <div class="card">
 [GENERAL PROJECTS FOR ANDROID ON XDA](https://forum.xda-developers.com){: target="_blank" }
 <div class="card-divider"></div>
@@ -113,4 +115,6 @@ title: Developments
 <div class="card-divider"></div>
 * [<span style="color:#0090CA">TWRP: Self maintained recovery (stable)</span>](https://forum.xda-developers.com/-/-t3576493){: target="_blank" }
 * [<span style="color:#6E6B6A">Kernel: Sony Stock Patcher (stable)</span>](https://forum.xda-developers.com/-/-t3576493){: target="_blank" }
+</div>
+
 </div>
