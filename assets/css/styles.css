@@ -154,6 +154,7 @@ h2 {
 .nav > li {
   transition: all 0.2s ease-out;
 }
+
 /* === Content styles === */
 .page-content {
   padding: 30px;
@@ -227,11 +228,6 @@ h2 {
 }
 
 /* === Card styles === */
-.cards {
-  line-height: 0;
-  white-space: pre-line;
-}
-
 .card {
   background-color:#FFFFFF;
   -moz-box-shadow:#000000 0px 0px 10px -4px;
@@ -239,11 +235,10 @@ h2 {
   box-shadow:#000000 0px 0px 10px -4px;
   display:inline-block;
   font-weight: bold;
-  line-height: normal;
   margin:10px 10px;
   padding:5px 20px 5px;
   text-align: left;
-  white-space: normal;
+  vertical-align: middle;
 }
 
 .card > p {
