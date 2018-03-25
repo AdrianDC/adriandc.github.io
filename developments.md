@@ -47,7 +47,7 @@ title: Developments
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat weekly (stable)</span>](https://forum.xda-developers.com/-/-t3529554){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3490463){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3581362){: target="_blank" }
-* [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (stable)</span>](https://forum.xda-developers.com/-/-t3508087){: target="_blank" }
+* [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (final)</span>](https://forum.xda-developers.com/-/-t3508087){: target="_blank" }
 * [<span style="color:#85B348">AOSP-OMS 7.0/6.0: Custom AOSP with OMS (final)</span>](https://forum.xda-developers.com/-/-t3468302){: target="_blank" }
 * [<span style="color:#27AAE1">CyanogenMod 13.0: Snapshot 6.0 (final)</span>](https://forum.xda-developers.com/-/-t3415827){: target="_blank" }
 * [<span style="color:#F72F2F">MultiROM: Mainline multirom-dev (stable)</span>](https://forum.xda-developers.com/-/-t3468015){: target="_blank" }
@@ -63,7 +63,7 @@ title: Developments
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat weekly (stable)</span>](https://forum.xda-developers.com/-/-t3529555){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3490463){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3581362){: target="_blank" }
-* [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (stable)</span>](https://forum.xda-developers.com/-/-t3508087){: target="_blank" }
+* [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (final)</span>](https://forum.xda-developers.com/-/-t3508087){: target="_blank" }
 * [<span style="color:#85B348">AOSP-OMS 7.0/6.0: Custom AOSP with OMS (final)</span>](https://forum.xda-developers.com/-/-t3468302){: target="_blank" }
 * [<span style="color:#27AAE1">CyanogenMod 13.0: Snapshot 6.0 (final)</span>](https://forum.xda-developers.com/-/-t3418818){: target="_blank" }
 * [<span style="color:#F72F2F">MultiROM: Mainline multirom-dev (stable)</span>](https://forum.xda-developers.com/-/-t3468015){: target="_blank" }
@@ -79,7 +79,7 @@ title: Developments
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat weekly (stable)</span>](https://forum.xda-developers.com/-/-t3529556){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3490463){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3581362){: target="_blank" }
-* [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (stable)</span>](https://forum.xda-developers.com/-/-t3508097){: target="_blank" }
+* [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (final)</span>](https://forum.xda-developers.com/-/-t3508097){: target="_blank" }
 * [<span style="color:#85B348">AOSP-OMS 7.0/6.0: Custom AOSP with OMS (final)</span>](https://forum.xda-developers.com/-/-t3468302){: target="_blank" }
 * [<span style="color:#27AAE1">CyanogenMod 13.0: Snapshot 6.0 (final)</span>](https://forum.xda-developers.com/-/-t3416938){: target="_blank" }
 * [<span style="color:#F72F2F">MultiROM: Mainline multirom-dev (stable)</span>](https://forum.xda-developers.com/-/-t3468015){: target="_blank" }
