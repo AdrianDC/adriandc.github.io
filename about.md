@@ -5,7 +5,7 @@ permalink: about
 title: About
 ---
 
-![AdrianDC](images/adriandc.png){: .img-thumbnail }
+![AdrianDC](https://github.com/AdrianDC.png?size=150){: .img-thumbnail }
 
 <br />
 
