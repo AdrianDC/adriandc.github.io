@@ -227,6 +227,15 @@ h2 {
   width:100%;
 }
 
+/* === Anchor styles === */
+.anchor-item {
+  word-wrap: normal;
+}
+
+.anchor-item:hover > a:last-child {
+  visibility: visible !important;
+}
+
 /* === Card styles === */
 .card {
   background-color:#FFFFFF;
@@ -241,11 +250,12 @@ h2 {
   vertical-align: middle;
 }
 
-.card > p {
-  margin-top: 3px;
+.card > h5 {
+  margin: 0px;
+  padding: 6px 0px 6px;
 }
 
-.card > p > a {
+.card > h5 > a {
   color: #555555;
   font-size: 13px;
 }
