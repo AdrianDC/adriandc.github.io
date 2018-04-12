@@ -114,10 +114,10 @@ title: Developments
 <div class="card">
 ##### [RECENT DEVELOPMENTS CHANGELOGS](https://forum.xda-developers.com){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-/-t3666304/post73624544#post73624544){: target="_blank" }
-* [<span style="color:#167C80">LineageOS 15.1: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-t3666303/post73624542#post73624542){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-/-t3758221/post75759770#post75759770){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-/-t3758219/post75759338#post75759338){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-t3758221/post75759770#post75759770){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-t3758219/post75759338#post75759338){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-t3666304/post73624544#post73624544){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-t3666303/post73624542#post73624542){: target="_blank" }
 </div>
 
 </div>
