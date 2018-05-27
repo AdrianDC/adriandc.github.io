@@ -20,7 +20,6 @@ function anchorizejekyll()
     link.style.visibility = "hidden";
     node.className = 'anchor-item';
     node.appendChild(link);
-console.log(node);
   });
 }
 
