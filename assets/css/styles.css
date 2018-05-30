@@ -66,9 +66,9 @@ h2 {
 }
 
 .page-container {
-  -moz-box-shadow: #000000 0px 0px 20px -3px;
-  -webkit-box-shadow: #000000 0px 0px 20px -3px;
-  box-shadow: #000000 0px 0px 20px -3px;
+  -moz-box-shadow: #000000 0px 0px 14px -3px;
+  -webkit-box-shadow: #000000 0px 0px 14px -3px;
+  box-shadow: #000000 0px 0px 14px -3px;
   margin-left: auto;
   margin-right: auto;
   padding: 0px 5px;
@@ -344,8 +344,12 @@ h2 {
 
 @media print, screen and (max-width: 480px) {
   .page-wrapper {
-    padding-left: 3px;
-    padding-right: 3px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .page-container {
+    width: 100%;
   }
 
   .page-content {
