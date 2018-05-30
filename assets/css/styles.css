@@ -112,8 +112,7 @@ h2 {
 }
 
 .navbar-toggle {
-  border-color: rgba(255, 255, 255, 0.3);
-  margin-right: 0px;
+  margin-right: 5px;
 }
 
 .navbar-toggle .icon-bar {
