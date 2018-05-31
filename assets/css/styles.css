@@ -41,9 +41,9 @@ h2 {
 .navbar-container {
   background: transparent;
   border: none;
-  -moz-box-shadow: #333333 0px 7px 14px -4px;
-  -webkit-box-shadow: #333333 0px 7px 14px -4px;
-  box-shadow: #333333 0px 7px 14px -4px;
+  -moz-box-shadow: #333333 0px 1px 15px -3px;
+  -webkit-box-shadow: #333333 0px 1px 15px -3px;
+  box-shadow: #333333 0px 1px 15px -3px;
   color: black !important;
   margin-bottom: 16px;
   padding: 0px;
