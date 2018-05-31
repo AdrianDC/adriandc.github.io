@@ -321,6 +321,21 @@ h2 {
 
 /* === Media styles === */
 @media print, screen and (max-width: 960px) {
+  .menu-container {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .navbar-nav {
+    margin-top: 4px;
+    margin-bottom: 0px;
+  }
+
+  .navbar-nav > li {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
   .page-wrapper {
     padding-left: 25px;
     padding-right: 25px;
@@ -336,9 +351,19 @@ h2 {
 }
 
 @media print, screen and (max-width: 768px) {
+  .navbar-container {
+    border-radius: 0px 0px 15px 15px;
+    overflow: hidden;
+  }
+
   .card > ul {
     padding-left: 20px;
     padding-right: 10px;
+  }
+
+  .footer-container {
+    border-radius: 5px 5px 0px 0px;
+    overflow: hidden;
   }
 }
 
