@@ -53,6 +53,9 @@ h2 {
 .header-container {
   align-items: center;
   background: #424242;
+  -moz-box-shadow: inset 0px -1px 20px #000000;
+  -webkit-box-shadow: inset 0px -1px 20px #000000;
+  box-shadow: inset 0px -1px 20px #000000;
   display: flex;
   height: 60px;
 }
