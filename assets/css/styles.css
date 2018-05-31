@@ -131,10 +131,10 @@ h2 {
 
 .navbar-nav > li > a {
   color: #111111;
+  font-variant: small-caps;
   font-weight: bold;
   padding: 4px 10px !important;
   text-shadow: #CCCCCC 0px 0px 10px;
-  text-transform: uppercase;
 }
 
 .navbar-nav > li > a:focus {
