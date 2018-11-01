@@ -79,6 +79,20 @@ h2 {
   width: 70%;
 }
 
+.page-container-cards {
+  max-width: 1200px;
+  width: 90%;
+}
+
+.page-container-dialog {
+  max-width: 600px;
+}
+
+.page-container-text {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
 .footer-container {
   background-color: #111111;
   bottom: 0px;
@@ -356,6 +370,11 @@ h2 {
   .navbar-container {
     border-radius: 0px 0px 15px 15px;
     overflow: hidden;
+  }
+
+  .page-container-text {
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .card > ul {

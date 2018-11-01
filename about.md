@@ -3,6 +3,7 @@ layout: default
 name: about
 permalink: about
 title: About
+type: text
 ---
 
 ![AdrianDC](https://github.com/AdrianDC.png?size=150){: .img-thumbnail }

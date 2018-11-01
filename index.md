@@ -2,6 +2,7 @@
 layout: default
 name: index
 title: Home
+type: dialog
 ---
 
 ## Personal references

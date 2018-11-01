@@ -3,6 +3,7 @@ layout: default
 name: developments
 permalink: developments
 title: Developments
+type: cards
 ---
 
 # Android Developments

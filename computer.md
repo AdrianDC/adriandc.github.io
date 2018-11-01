@@ -2,6 +2,7 @@
 layout: default
 name: computer
 title: Computer
+type: text
 ---
 
 # Desktop Computer
