@@ -91,7 +91,7 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA X PERF. (DORA: MSM8996, 3GB RAM, 2016)](http://https://www.gsmarena.com/sony_xperia_x_performance-7949.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#82A12B">AOSP 7.1: Sony AOSP official project (development)</span>](https://forum.xda-developers.com/-/-t3547061){: target="_blank" }
+* [<span style="color:#82A12B">AOSP 7.1: Sony AOSP official project (final)</span>](https://forum.xda-developers.com/-/-t3547061){: target="_blank" }
 * [<span style="color:#F72F2F">MultiROM: Mainline multirom-dev (stable)</span>](https://forum.xda-developers.com/-/-t3476565){: target="_blank" }
 * [<span style="color:#0090CA">TWRP: Self maintained recovery (stable)</span>](https://forum.xda-developers.com/showpost.php?p=69036502){: target="_blank" }
 * [<span style="color:#6E6B6A">Kernel: Sony Stock Patcher (stable)</span>](https://forum.xda-developers.com/-/-t3528148){: target="_blank" }
@@ -108,7 +108,7 @@ type: cards
 <div class="card">
 ##### [SEMC XPERIA ARC S (ANZU: MSM7x30, 512MB RAM, 2011)](https://www.gsmarena.com/sony_ericsson_xperia_arc_s-4134.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#0DA8EF">LegacyXperia 14.1: Regular test builds (development)</span>](https://forum.xda-developers.com/showpost.php?p=70625927){: target="_blank" }
+* [<span style="color:#0DA8EF">LegacyXperia 14.1: Public test builds (final)</span>](https://forum.xda-developers.com/showpost.php?p=70625927){: target="_blank" }
 * [<span style="color:#27AAE1">LegacyXperia 13.0: Stable Android 6.0 releases (final)</span>](https://forum.xda-developers.com/-/-t3323975){: target="_blank" }
 </div>
 
