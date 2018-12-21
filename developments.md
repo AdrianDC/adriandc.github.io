@@ -26,9 +26,9 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA SP (HUASHAN: MSM8960T, 1GB RAM, 2013)](https://www.gsmarena.com/sony_xperia_sp-5364.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Official Oreo pre-release (development)</span>](https://forum.xda-developers.com/-/-t3758221){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (development)</span>](https://forum.xda-developers.com/-/-t3666304){: target="_blank" }
-* [<span style="color:#167C80">LineageOS 14.1: Official Nougat weekly (stable)</span>](https://forum.xda-developers.com/-/-t3529514){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (stable)</span>](https://forum.xda-developers.com/-/-t3758221){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3666304){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529514){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3449300){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3356209){: target="_blank" }
 * [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (final)</span>](https://forum.xda-developers.com/-/-t3512101){: target="_blank" }
@@ -43,9 +43,9 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA T (MINT: MSM8260A, 1GB RAM, 2012)](https://www.gsmarena.com/sony_xperia_t-4899.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Official Oreo pre-release (development)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (development)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
-* [<span style="color:#167C80">LineageOS 14.1: Official Nougat weekly (stable)</span>](https://forum.xda-developers.com/-/-t3529554){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (stable)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529554){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3490463){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3581362){: target="_blank" }
 * [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (final)</span>](https://forum.xda-developers.com/-/-t3508087){: target="_blank" }
@@ -59,9 +59,9 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA TX (HAYABUSA: MSM8260A, 1GB RAM, 2012)](https://www.gsmarena.com/sony_xperia_tx-4959.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Official Oreo pre-release (development)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (development)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
-* [<span style="color:#167C80">LineageOS 14.1: Official Nougat weekly (stable)</span>](https://forum.xda-developers.com/-/-t3529555){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (stable)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529555){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3490463){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3581362){: target="_blank" }
 * [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (final)</span>](https://forum.xda-developers.com/-/-t3508087){: target="_blank" }
@@ -75,9 +75,9 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA V (TSUBASA: MSM8960, 1GB RAM, 2012)](https://www.gsmarena.com/sony_xperia_v-4958.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Official Oreo pre-release (development)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (development)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
-* [<span style="color:#167C80">LineageOS 14.1: Official Nougat weekly (stable)</span>](https://forum.xda-developers.com/-/-t3529556){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (stable)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529556){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3490463){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3581362){: target="_blank" }
 * [<span style="color:#424141">ResurrectionRemix: Official Nougat monthly (final)</span>](https://forum.xda-developers.com/-/-t3508097){: target="_blank" }
