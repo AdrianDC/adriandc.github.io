@@ -18,15 +18,3 @@ type: dialog
   <i class="fas fa-code-branch fa-fw"></i> [AdrianDC@lineageos](https://review.lineageos.org/#/q/owner:%22Adrian+DC%22){: target="_blank" }
 
 </div>
-
-<div>
-  <br />
-</div>
-
-<details class="page-content-details">
-  <summary><i class="fas fa-comments fa-fw"></i> **Open the chat**
-  </summary>
-  <iframe class="img-thumbnail" style="height: 300px;" src="https://www.i-tchat.com/shoutbox/shoutbox.php?idShoutbox=75416" width="800" height="300" frameborder="0" allowtransparency="true" >
-    <a href="https://www.i-tchat.com" title="tchat" onClick="window.open(this.href+'?75416');">Open the chat</a>
-  </iframe>
-</details>
