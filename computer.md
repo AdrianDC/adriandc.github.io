@@ -22,7 +22,7 @@ type: text
 * **Cooling :** [Thermalright Macho 120](http://thermalright.com/product/macho120-rev-a){: target="_blank" }
 * **Fans :** [be quiet! Shadow Wings PWM 140 mm](http://www.bequiet.com/fr/casefans/264){: target="_blank" }
 * **Graphic card :** [ATI Radeon HD 6450 1 GB](https://www.google.com/search?q=AMD+Radeon+HD+6450+1+GB+DDR3){: target="_blank" }
-* **OS :** [Linux Mint 19.1 Cinnamon](https://linuxmint.com){: target="_blank" }
+* **OS :** [Linux Mint 19.2 Cinnamon](https://linuxmint.com){: target="_blank" }
 
 ---
 * **History :**
