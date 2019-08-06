@@ -16,18 +16,18 @@ type: cards
 * [<span style="color:#0E485D">GitHub: Main shared sources projects (link)</span>](https://github.com/AdrianDC?tab=repositories){: target="_blank" }
 * [<span style="color:#009CCC">GitHub: Developments and manifests (link)</span>](https://github.com/AdrianDC?tab=repositories&q=development){: target="_blank" }
 * [<span style="color:#129E12">Project: Android Development Shell Tools (link)</span>](https://forum.xda-developers.com/-/-/-t3622382){: target="_blank" }
-* [<span style="color:#6E6B6A">Tools: BootBridge for Sony ELF (stable)</span>](https://forum.xda-developers.com/-/-t3506883){: target="_blank" }
-* [<span style="color:#C30000">Tools: Bootimage ADB Unsecure Patcher (stable)</span>](https://forum.xda-developers.com/-/-t3618558){: target="_blank" }
-* [<span style="color:#AA0027">Tools: Low-RAM Property Patcher (stable)</span>](https://forum.xda-developers.com/-/-t3737373){: target="_blank" }
-* [<span style="color:#0055AA">Tools: Universal Kernel Permissive Patcher (stable)</span>](https://forum.xda-developers.com/-/-t3506338){: target="_blank" }
+* [<span style="color:#6E6B6A">Tools: BootBridge for Sony ELF (final)</span>](https://forum.xda-developers.com/-/-t3506883){: target="_blank" }
+* [<span style="color:#C30000">Tools: Bootimage ADB Unsecure Patcher (final)</span>](https://forum.xda-developers.com/-/-t3618558){: target="_blank" }
+* [<span style="color:#AA0027">Tools: Low-RAM Property Patcher (final)</span>](https://forum.xda-developers.com/-/-t3737373){: target="_blank" }
+* [<span style="color:#0055AA">Tools: Universal Kernel Permissive Patcher (final)</span>](https://forum.xda-developers.com/-/-t3506338){: target="_blank" }
 * [<span style="color:#009688">Uploads: BasketBuild mirror from Mega.nz (link)</span>](https://basketbuild.com/devs/AdrianDC){: target="_blank" }
 </div>
 
 <div class="card">
 ##### [SONY XPERIA SP (HUASHAN: MSM8960T, 1GB RAM, 2013)](https://www.gsmarena.com/sony_xperia_sp-5364.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (stable)</span>](https://forum.xda-developers.com/-/-t3758221){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3666304){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (nightly)</span>](https://forum.xda-developers.com/-/-t3758221){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3666304){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529514){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3449300){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3356209){: target="_blank" }
@@ -43,8 +43,8 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA T (MINT: MSM8260A, 1GB RAM, 2012)](https://www.gsmarena.com/sony_xperia_t-4899.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (stable)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (nightly)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529554){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3490463){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3581362){: target="_blank" }
@@ -59,8 +59,8 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA TX (HAYABUSA: MSM8260A, 1GB RAM, 2012)](https://www.gsmarena.com/sony_xperia_tx-4959.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (stable)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (nightly)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529555){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3490463){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3581362){: target="_blank" }
@@ -75,8 +75,8 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA V (TSUBASA: MSM8960, 1GB RAM, 2012)](https://www.gsmarena.com/sony_xperia_v-4958.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (stable)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (nightly)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529556){: target="_blank" }
 * [<span style="color:#82A12B">AOSP 7.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3490463){: target="_blank" }
 * [<span style="color:#C11C1C">AOSP-CAF 7.1: Custom CAF with OMS (final)</span>](https://forum.xda-developers.com/-/-t3581362){: target="_blank" }
@@ -92,17 +92,16 @@ type: cards
 ##### [SONY XPERIA X PERF. (DORA: MSM8996, 3GB RAM, 2016)](http://https://www.gsmarena.com/sony_xperia_x_performance-7949.php){: target="_blank" }
 <div class="card-divider"></div>
 * [<span style="color:#82A12B">AOSP 7.1: Sony AOSP official project (final)</span>](https://forum.xda-developers.com/-/-t3547061){: target="_blank" }
-* [<span style="color:#F72F2F">MultiROM: Mainline multirom-dev (stable)</span>](https://forum.xda-developers.com/-/-t3476565){: target="_blank" }
-* [<span style="color:#0090CA">TWRP: Self maintained recovery (stable)</span>](https://forum.xda-developers.com/showpost.php?p=69036502){: target="_blank" }
-* [<span style="color:#6E6B6A">Kernel: Sony Stock Patcher (stable)</span>](https://forum.xda-developers.com/-/-t3528148){: target="_blank" }
-* [<span style="color:#167C80">LineageOS 14.1: Stock-based development (private)</span>](#){: target="_blank" }
+* [<span style="color:#F72F2F">MultiROM: Mainline multirom-dev (final)</span>](https://forum.xda-developers.com/-/-t3476565){: target="_blank" }
+* [<span style="color:#0090CA">TWRP: Self maintained recovery (final)</span>](https://forum.xda-developers.com/showpost.php?p=69036502){: target="_blank" }
+* [<span style="color:#6E6B6A">Kernel: Sony Stock Patcher (final)</span>](https://forum.xda-developers.com/-/-t3528148){: target="_blank" }
 </div>
 
 <div class="card">
 ##### [SONY XPERIA XZ (KAGURA: MSM8996, 3GB RAM, 2016)](https://www.gsmarena.com/sony_xperia_xz-8313.php){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#0090CA">TWRP: Self maintained recovery (stable)</span>](https://forum.xda-developers.com/-/-t3576493){: target="_blank" }
-* [<span style="color:#6E6B6A">Kernel: Sony Stock Patcher (stable)</span>](https://forum.xda-developers.com/-/-t3576493){: target="_blank" }
+* [<span style="color:#0090CA">TWRP: Self maintained recovery (final)</span>](https://forum.xda-developers.com/-/-t3576493){: target="_blank" }
+* [<span style="color:#6E6B6A">Kernel: Sony Stock Patcher (final)</span>](https://forum.xda-developers.com/-/-t3576493){: target="_blank" }
 </div>
 
 <div class="card">
