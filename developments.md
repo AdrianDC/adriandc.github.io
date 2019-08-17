@@ -26,6 +26,8 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA SP (HUASHAN: MSM8960T, 1GB RAM, 2013)](https://www.gsmarena.com/sony_xperia_sp-5364.php){: target="_blank" }
 <div class="card-divider"></div>
+* [<span style="color:#167C80">LineageOS 16.0: Development Pie releases (stable)</span>](https://forum.xda-developers.com/-/-t3958433){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 9: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3958464){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (nightly)</span>](https://forum.xda-developers.com/-/-t3758221){: target="_blank" }
 * [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3666304){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529514){: target="_blank" }
@@ -43,6 +45,8 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA T (MINT: MSM8260A, 1GB RAM, 2012)](https://www.gsmarena.com/sony_xperia_t-4899.php){: target="_blank" }
 <div class="card-divider"></div>
+* [<span style="color:#167C80">LineageOS 16.0: Development Pie releases (stable)</span>](https://forum.xda-developers.com/-/-t3958431){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 9: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3958463){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (nightly)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
 * [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529554){: target="_blank" }
@@ -59,6 +63,8 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA TX (HAYABUSA: MSM8260A, 1GB RAM, 2012)](https://www.gsmarena.com/sony_xperia_tx-4959.php){: target="_blank" }
 <div class="card-divider"></div>
+* [<span style="color:#167C80">LineageOS 16.0: Development Pie releases (stable)</span>](https://forum.xda-developers.com/-/-t3958431){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 9: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3958463){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (nightly)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
 * [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529555){: target="_blank" }
@@ -75,6 +81,8 @@ type: cards
 <div class="card">
 ##### [SONY XPERIA V (TSUBASA: MSM8960, 1GB RAM, 2012)](https://www.gsmarena.com/sony_xperia_v-4958.php){: target="_blank" }
 <div class="card-divider"></div>
+* [<span style="color:#167C80">LineageOS 16.0: Development Pie releases (stable)</span>](https://forum.xda-developers.com/-/-t3958431){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 9: Own 8960 maintained project (stable)</span>](https://forum.xda-developers.com/-/-t3958463){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 15.1: Official Oreo nightly (nightly)</span>](https://forum.xda-developers.com/-/-t3758219){: target="_blank" }
 * [<span style="color:#6C881D">AOSP 8.1: Own 8960 maintained project (final)</span>](https://forum.xda-developers.com/-/-t3666303){: target="_blank" }
 * [<span style="color:#167C80">LineageOS 14.1: Official Nougat release (final)</span>](https://forum.xda-developers.com/-/-t3529556){: target="_blank" }
@@ -114,10 +122,10 @@ type: cards
 <div class="card">
 ##### [RECENT DEVELOPMENTS CHANGELOGS](https://forum.xda-developers.com){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 15.1: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-t3758221/post75759770#post75759770){: target="_blank" }
-* [<span style="color:#167C80">LineageOS 15.1: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-t3758219/post75759338#post75759338){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-t3666304/post73624544#post73624544){: target="_blank" }
-* [<span style="color:#6C881D">AOSP 8.1: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-t3666303/post73624542#post73624542){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 16.0: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-t3958433/post80086704#post80086704){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 16.0: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-t3958431/post80086708#post80086708){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 9: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-t3958464/post80087187#post80087187){: target="_blank" }
+* [<span style="color:#6C881D">AOSP 9: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-t3958463/post80087185#post80087185){: target="_blank" }
 </div>
 
 </div>
