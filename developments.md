@@ -13,13 +13,19 @@ type: cards
 <div class="card">
 ##### [GENERAL PROJECTS FOR ANDROID ON XDA](https://forum.xda-developers.com){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#0E485D">GitHub: Main shared sources projects (link)</span>](https://github.com/AdrianDC?tab=repositories){: target="_blank" }
-* [<span style="color:#009CCC">GitHub: Developments and manifests (link)</span>](https://github.com/AdrianDC?tab=repositories&q=development){: target="_blank" }
 * [<span style="color:#129E12">Project: Android Development Shell Tools (link)</span>](https://forum.xda-developers.com/-/-/-t3622382){: target="_blank" }
 * [<span style="color:#6E6B6A">Tools: BootBridge for Sony ELF (final)</span>](https://forum.xda-developers.com/-/-t3506883){: target="_blank" }
 * [<span style="color:#C30000">Tools: Bootimage ADB Unsecure Patcher (final)</span>](https://forum.xda-developers.com/-/-t3618558){: target="_blank" }
 * [<span style="color:#AA0027">Tools: Low-RAM Property Patcher (final)</span>](https://forum.xda-developers.com/-/-t3737373){: target="_blank" }
 * [<span style="color:#0055AA">Tools: Universal Kernel Permissive Patcher (final)</span>](https://forum.xda-developers.com/-/-t3506338){: target="_blank" }
+</div>
+
+<div class="card">
+##### [RECENT DEVELOPMENTS CHANGELOGS](https://forum.xda-developers.com){: target="_blank" }
+<div class="card-divider"></div>
+* [<span style="color:#0E485D">GitHub: Main shared sources projects (link)</span>](https://github.com/AdrianDC?tab=repositories){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 17.1: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-t4147075/post83272065#post83272065){: target="_blank" }
+* [<span style="color:#167C80">LineageOS 17.1: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-t4147077/post83272075#post83272075){: target="_blank" }
 </div>
 
 <div class="card">
@@ -120,13 +126,6 @@ type: cards
 <div class="card-divider"></div>
 * [<span style="color:#0DA8EF">LegacyXperia 14.1: Public test builds (final)</span>](https://forum.xda-developers.com/showpost.php?p=70625927){: target="_blank" }
 * [<span style="color:#27AAE1">LegacyXperia 13.0: Stable Android 6.0 releases (final)</span>](https://forum.xda-developers.com/-/-t3323975){: target="_blank" }
-</div>
-
-<div class="card">
-##### [RECENT DEVELOPMENTS CHANGELOGS](https://forum.xda-developers.com){: target="_blank" }
-<div class="card-divider"></div>
-* [<span style="color:#167C80">LineageOS 17.1: Xperia SP (Huashan)</span>](https://forum.xda-developers.com/-/-t4147075/post83272065#post83272065){: target="_blank" }
-* [<span style="color:#167C80">LineageOS 17.1: Xperia T / TX / V (Blue)</span>](https://forum.xda-developers.com/-/-t4147077/post83272075#post83272075){: target="_blank" }
 </div>
 
 </div>
