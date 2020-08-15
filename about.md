@@ -7,7 +7,7 @@ type: about
 ---
 
 <div align="center">
-![AdrianDC](https://github.com/AdrianDC.png?size=150){: .img-thumbnail }
+![AdrianDC](assets/images/avatar.png){: .img-thumbnail }
 </div>
 
 ### About me :
