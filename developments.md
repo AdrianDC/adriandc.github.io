@@ -20,7 +20,6 @@ type: cards
 * [<span style="color:#C30000">Tools: Bootimage ADB Unsecure Patcher (final)</span>](https://forum.xda-developers.com/-/-t3618558){: target="_blank" }
 * [<span style="color:#AA0027">Tools: Low-RAM Property Patcher (final)</span>](https://forum.xda-developers.com/-/-t3737373){: target="_blank" }
 * [<span style="color:#0055AA">Tools: Universal Kernel Permissive Patcher (final)</span>](https://forum.xda-developers.com/-/-t3506338){: target="_blank" }
-* [<span style="color:#009688">Uploads: BasketBuild mirror from Mega.nz (link)</span>](https://basketbuild.com/devs/AdrianDC){: target="_blank" }
 </div>
 
 <div class="card">
