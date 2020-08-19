@@ -13,7 +13,7 @@ type: cards
 <div class="card">
 ##### [GENERAL PROJECTS FOR ANDROID ON XDA](https://forum.xda-developers.com){: target="_blank" }
 <div class="card-divider"></div>
-* [<span style="color:#129E12">Project: Android Development Shell Tools (link)</span>](https://forum.xda-developers.com/-/-/-t3622382){: target="_blank" }
+* [<span style="color:#129E12">Project: Advanced Development Shell Tools (link)</span>](http://adriandc.github.io/advanced_development_shell_tools/){: target="_blank" }
 * [<span style="color:#6E6B6A">Tools: BootBridge for Sony ELF (final)</span>](https://forum.xda-developers.com/-/-t3506883){: target="_blank" }
 * [<span style="color:#C30000">Tools: Bootimage ADB Unsecure Patcher (final)</span>](https://forum.xda-developers.com/-/-t3618558){: target="_blank" }
 * [<span style="color:#AA0027">Tools: Low-RAM Property Patcher (final)</span>](https://forum.xda-developers.com/-/-t3737373){: target="_blank" }
