@@ -7,6 +7,7 @@ description: Developments
 # Markdown
 kramdown:
   parse_block_html: true
+  show_warnings: true
 
 # Gems
 gems:
