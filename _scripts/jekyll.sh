@@ -10,6 +10,7 @@ if ! bundle list --name-only 2>&1 | grep -q '^jekyll' || [ ! -z "${1}" ]; then
 fi
 
 # Launch Jekyll
+bundle exec jekyll clean >/dev/null 2>&1
 bundle exec jekyll serve --host 0.0.0.0 --incremental --port 4003
 
 # Cleanup server files
