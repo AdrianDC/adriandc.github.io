@@ -1,0 +1,18 @@
+stages:
+  - local
+
+serve:
+  stage: local
+  image: ruby:2.7
+  before_script:
+    - rm -f ./Gemfile.lock
+    - bundle config set path ./vendor/
+    - bundle install
+    - bundle list >/dev/null
+  script:
+    - bundle exec jekyll clean >/dev/null 2>&1
+    - bundle exec jekyll serve --host $(hostname -i) --incremental --port 4003
+  after_script:
+    - rm -rf ./_site ./.jekyll-metadata ./Gemfile.lock
+  only:
+    - local

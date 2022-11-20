@@ -1,6 +1,11 @@
+# Build intermediates
 _site
 .DS_Store
+.jekyll-cache
 .jekyll-metadata
 .sass-cache
 Gemfile.lock
 *.gem
+
+# Cache intermediates
+vendor/
