@@ -15,9 +15,11 @@ gems:
 
 # Exclusions
 exclude:
+  - CREDITS.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - README.md
 
 # Pages
 menu:
