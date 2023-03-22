@@ -1,15 +1,15 @@
 # Adrian DC - GitHub
 
-* **Copyright:** Adrian DC 2013-2022
+* **Copyright:** Adrian DC 2013-2023
 
 ---
 
-## Project links:
+## Project links
 
-* GitHub Pages: https://github.com/AdrianDC/adriandc.github.io
+* GitHub Pages: <https://github.com/AdrianDC/adriandc.github.io>
 
-## Project requirements:
+## Project requirements
 
-### Dependencies:
+### Dependencies
 
-* VSCode (https://code.visualstudio.com)
+* VSCode (<https://code.visualstudio.com>)
