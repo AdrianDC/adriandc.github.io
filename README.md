@@ -6,7 +6,7 @@
 
 ## Project links
 
-* GitHub Pages: <https://github.com/AdrianDC/adriandc.github.io>
+* GitLab Pages: <https://adriandc.gitlab.io/>
 
 ## Project requirements
 
