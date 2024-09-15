@@ -3,7 +3,7 @@ stages:
 
 serve:
   stage: local
-  image: ruby:2.7
+  image: ruby:3.1
   before_script:
     - rm -f ./Gemfile.lock
     - bundle config set path ./vendor/
