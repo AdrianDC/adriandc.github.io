@@ -1,6 +1,6 @@
 # Adrian DC - GitHub
 
-* **Copyright:** Adrian DC 2013-2023
+* **Copyright:** Adrian DC 2013-2024
 
 ---
 
