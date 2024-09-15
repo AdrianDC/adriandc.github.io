@@ -25,5 +25,3 @@ exclude:
 # Pages
 menu:
   - index.md
-  - developments.md
-  - about.md
